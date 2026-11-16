@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou o Pedro 👋
 
-<!--
-**Jerebelmainshaco/Jerebelmainshaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Análise e Desenvolvimento de Sistemas** na PUCPR, de Lapa (PR). Meu foco é **back-end** e **cibersegurança**.
 
-Here are some ideas to get you started:
+Também sou sócio-administrador de uma distribuidora de bebidas, onde aprendi na prática gestão de estoque, compras e equipe. Muitas ideias dos meus projetos saem de problemas reais do dia a dia do negócio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 O que estou estudando
+
+- Python e Java (orientação a objetos)
+- Banco de dados e SQL
+- Desenvolvimento web: HTML, CSS, JavaScript e PHP
+- Linux e segurança da informação (laboratórios no TryHackMe)
+- Internet das Coisas com ESP32
+
+### 🛠️ Projetos e ideias em desenvolvimento
+
+- Sistema de PDV para a distribuidora
+- App de controle financeiro pessoal com Open Finance
+- Pokédex para organizar coleção de cartas Pokémon TCG
+
+### 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/pedro-henrique-formighieri-vidal-73471b30b/)
